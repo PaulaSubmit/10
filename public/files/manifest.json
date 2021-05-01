@@ -1,10 +1,6 @@
 {
     "name": "Juego de geometría",
     "short_mane": "Juego",
-    "start_url": "../index.html",
-    "display": "standalone",
-    "background_color": "#e6f9ff",
-    "theme_color": "#33ccff",
     "icons": [
     { "src": "/icons/triangle192.png",
     "sizes": "192x192",
@@ -19,6 +15,9 @@
             { "src": "/icons/triangle640.png",
                 "sizes": "640x640",
                 "type": "image/png"}
-    ]
-   
+    ],
+    "start_url": "../index.html",
+    "display": "standalone",
+    "background_color": "#e6f9ff",
+    "theme_color": "#33ccff"
     }
